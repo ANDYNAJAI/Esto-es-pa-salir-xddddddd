@@ -1,1 +1,2 @@
-print("esta actividad es para salir xd")
+print("esta actividad es para salir xdddddd")
+print("el diavlo")
